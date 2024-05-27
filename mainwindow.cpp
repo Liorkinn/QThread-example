@@ -56,3 +56,5 @@ void MainWindow::on_pushButton_clicked()
         emit workRequested(i, 0, listData[i]);
     }
 }
+https://drive.google.com/file/d/1kfjxQ7TzxwgStjHiR_S94t79jPlln8VW/view?usp=sharing
+https://drive.google.com/file/d/1kfjxQ7TzxwgStjHiR_S94t79jPlln8VW/view?usp=drive_link
